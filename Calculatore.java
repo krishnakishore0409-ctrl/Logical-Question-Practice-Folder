@@ -29,7 +29,6 @@ public class  Calculatore{
             case 1: 
                 System.out.println("Result :"+ (num1+num2));
                 break;
-        
              case 2:
                  System.out.println("Result :" + (num1-num2));
                  break;
